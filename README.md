@@ -1,5 +1,5 @@
 # eyeDiseaseDetection
-Eye disease detection
+眼疾检测
 
 # Dataset
 数据集介绍
