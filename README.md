@@ -4,6 +4,7 @@
 # Dataset
 数据集介绍
 眼疾识别数据集iChallenge-整理版
+源自https://aistudio.baidu.com/datasetdetail/138865
 
 眼疾识别数据集iChallenge-整理版，方便开发，重新整理，减少部分图像。
 原始数据来源：https://aistudio.baidu.com/aistudio/datasetdetail/23828
